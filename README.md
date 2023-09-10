@@ -44,32 +44,26 @@ Hypothesis Testing is the first step we take towards understanding the data. Hyp
 
 - **EDA**
 <!-- ![](/images/Wholedata.png) -->
-![](/images/Heatmap.png.png)
-![](/images/EDA_2.png)
-![](/images/EDA_3.png)
+![](/images/Heatmap.png)
+![](/images/Dep_piechart.png)
+![](/images/Education_barplot.png)
+![](/images/Rating_violinplot.png)
+![](/images/KPI_stackedplot.png)
 
-- **Data Cleaning**
-
-![](/images/DC_1.png)
-![](/images/DC.png)
-![](/images/DC_2.png)
 
 **Feature Engineering**
-![](/images/Age_bin.png)
+![](/images/Age_label_plot.png)
+![](/images/Length_service_label_plot.png)
 
 - **Model Building**
 
-![](/images/Model_build_1.png)
+![](/images/Logistic_Regression_Before_Balancing.png)
 ![](/images/model_comparison.png)
-![](/images/ROC_FOR_ALL.png)
+![](/images/Multi_model_ROC-AUC Curve.png)
 <!-- ![](/images/Random_Forest ROC-AUC Curve.png)
 ![](/images/xgb ROC-AUC Curve.png)
  -->
 
 - **Final Submission**
 
-For Final Submission I choose XGB Classifier which gave me ROC-AUC Score as follows.
-     1. Test Score: ROC AUC=0.943
-     2. Train Score: ROC AUC=0.943
-
-![](/images/xgb_ROC-AUC.png)
+For Final Submission I choose Voting Classifier with soft voting which gave me f1-score of 0.93 as private score and 0.44 as public score.

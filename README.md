@@ -60,9 +60,6 @@ Hypothesis Testing is the first step we take towards understanding the data. Hyp
 ![](/images/Logistic_Regression_Before_Balancing.png)
 ![](/images/model_comparison.png)
 ![](/images/Multi_model_ROC-AUC Curve.png)
-<!-- ![](/images/Random_Forest ROC-AUC Curve.png)
-![](/images/xgb ROC-AUC Curve.png)
- -->
 
 - **Final Submission**
 
